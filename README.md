@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joaopedrodovale, I am Brazilian
 - 👀 I’m interested in: Learn C Sharp and be a Dev back end.
-- 🌱 I’m currently learning: C Sharp
-- 💞️ I’m looking to collaborate on: At the moment just developing my knowledge.
+- 🌱 I’m currently learning: C Sharp.
 - 📫 How to reach me: instagram: @joaopedrosdvl
 
   -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
