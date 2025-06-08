@@ -9,5 +9,4 @@
 - 👋 Olá, eu sou @joaopedrodovale, sou Brasileiro 
 - 👀 Estou interessado: Aprender C Sharp e ser um Dev back end.
 - 🌱 Atualmente estou aprendendo: C Sharp.
-- 💞️ Estou procurando colaborar em: No momento apenas desenvolvendo meus conhecimentos.
 - 📫 Como me encontrar: instagram: @joaopedrosdvl
